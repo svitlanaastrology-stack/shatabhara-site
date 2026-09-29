@@ -545,3 +545,13 @@ body.theme-c .hero{background:radial-gradient(660px 440px at 78% 42%,rgba(224,19
 .article-body .art-h{display:flex;align-items:baseline;gap:.7rem}
 .art-mark{flex:none;width:.62rem;height:.62rem;border-radius:50%;background:radial-gradient(circle at 35% 35%,var(--gold-2),var(--gold-3));box-shadow:0 0 0 3px rgba(184,145,63,.18);transform:translateY(-.12em)}
 .art-star{color:var(--gold);font-style:normal;font-family:var(--sans,inherit)}
+/* header: 4 social icons + long UA labels — keep on one line */
+@media (min-width:980px){
+  .site-nav a:not(.btn){white-space:nowrap}
+  .site-nav ul{gap:1.05rem}
+  .social-header{display:flex;flex-wrap:nowrap;gap:.3rem}
+  .social-header .social-btn{width:30px;height:30px}
+  .social-header .social-btn svg{width:15px;height:15px;flex-basis:15px}
+  .brand-name,.brand-sub{white-space:nowrap}
+}
+@media (min-width:980px) and (max-width:1239px){.site-nav .social-li{display:none}}
