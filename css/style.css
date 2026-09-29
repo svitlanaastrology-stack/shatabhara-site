@@ -536,3 +536,12 @@ body.theme-c .hero{background:radial-gradient(660px 440px at 78% 42%,rgba(224,19
 .article-card.article-featured .article-subtitle{font-size:1.25rem;color:var(--accent);margin:-.2rem 0 .8rem}
 .article-body ul.art-arrows{max-width:30rem}
 .sadesati-article{text-align:center;margin:1.2rem 0 2rem}
+
+/* price note above CTA buttons */
+.price-note{margin:1.3rem 0 -.6rem;font-size:1.02rem;color:var(--ink-soft)}
+.price-note strong{font-family:var(--serif);font-size:1.35rem;color:var(--accent);margin-left:.15rem}
+.contact .price-note{margin:0 0 1rem;font-size:1.08rem}
+/* article markers in palette colours instead of colour emoji */
+.article-body .art-h{display:flex;align-items:baseline;gap:.7rem}
+.art-mark{flex:none;width:.62rem;height:.62rem;border-radius:50%;background:radial-gradient(circle at 35% 35%,var(--gold-2),var(--gold-3));box-shadow:0 0 0 3px rgba(184,145,63,.18);transform:translateY(-.12em)}
+.art-star{color:var(--gold);font-style:normal;font-family:var(--sans,inherit)}
