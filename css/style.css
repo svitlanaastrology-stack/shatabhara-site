@@ -500,3 +500,11 @@ body.theme-b .hero{background:radial-gradient(640px 420px at 78% 42%,rgba(168,13
 body.theme-b .section-parchment{background:var(--bg-2)}
 body.theme-c .hero{background:radial-gradient(660px 440px at 78% 42%,rgba(224,191,115,.45),transparent 65%),radial-gradient(700px 500px at 0% 100%,rgba(185,130,80,.18),transparent 70%),linear-gradient(180deg,#fff4e4,var(--bg))}
 @media (max-width:899px){body[class*="theme-"] .hero::before{display:none}}
+
+/* new logo (transparent, 2026-09-29) */
+.brand img{border:0;border-radius:0;width:48px;height:48px;filter:drop-shadow(0 1px 2px rgba(120,85,30,.25))}
+@media (max-width:520px){.brand img{width:40px;height:40px}}
+.footer-brand img{border:0;border-radius:0;width:56px;height:56px}
+.brand-logo img{width:min(380px,86%);border:0;border-radius:0;box-shadow:none;filter:drop-shadow(0 10px 22px rgba(120,85,30,.18))}
+@media (min-width:900px){.brand-grid{grid-template-columns:420px 1fr}}
+.brand-logo img{width:min(420px,92%)}
