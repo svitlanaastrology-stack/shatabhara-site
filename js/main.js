@@ -5,7 +5,8 @@
 
   // Local preview (file://): directory links -> index.html
   if(location.protocol==='file:'){
-    d.querySelectorAll('.lang-switch a').forEach(function(a){var h=a.getAttribute('href');if(/\/$/.test(h))a.setAttribute('href',h+'index.html');});
+    d.querySelectorAll('a[href]').forEach(function(a){var h=a.getAttribute('href');if(/^(https?:|mailto:|tel:|#)/.test(h))return;
+      if(/\/$/.test(h))a.setAttribute('href',h+'index.html');else if(/\/#/.test(h))a.setAttribute('href',h.replace('/#','/index.html#'));});
   }
 
   // Twinkling stars
