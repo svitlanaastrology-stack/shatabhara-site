@@ -1,71 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- ЧЕРНОВИК: замените DOMAIN на реальный домен -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://DOMAIN/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://DOMAIN/uk/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMAIN/uk/"/>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/"/>
     <lastmod>2026-09-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://DOMAIN/uk/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://DOMAIN/uk/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMAIN/uk/"/>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/uk/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/"/>
     <lastmod>2026-09-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://DOMAIN/articles/rahu-aquarius-ketu-leo-aries/</loc>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/"/>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/articles/rahu-aquarius-ketu-leo-aries/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/rahu-aquarius-ketu-leo-aries/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/rahu-aquarius-ketu-leo-aries/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/rahu-aquarius-ketu-leo-aries/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/rahu-aquarius-ketu-leo-aries/"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://DOMAIN/uk/articles/rahu-aquarius-ketu-leo-aries/</loc>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/rahu-aquarius-ketu-leo-aries/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/rahu-aquarius-ketu-leo-aries/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/rahu-aquarius-ketu-leo-aries/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/rahu-aquarius-ketu-leo-aries/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/rahu-aquarius-ketu-leo-aries/"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://DOMAIN/articles/lyudyna-oven-syla-i-garmoniya/</loc>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/rahu-aquarius-ketu-leo-aries/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/rahu-aquarius-ketu-leo-aries/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/rahu-aquarius-ketu-leo-aries/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/rahu-aquarius-ketu-leo-aries/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/rahu-aquarius-ketu-leo-aries/"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://DOMAIN/uk/articles/lyudyna-oven-syla-i-garmoniya/</loc>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/articles/lyudyna-oven-syla-i-garmoniya/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/lyudyna-oven-syla-i-garmoniya/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/lyudyna-oven-syla-i-garmoniya/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/lyudyna-oven-syla-i-garmoniya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/lyudyna-oven-syla-i-garmoniya/"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://DOMAIN/articles/chandra-bog-luny/</loc>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/lyudyna-oven-syla-i-garmoniya/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/lyudyna-oven-syla-i-garmoniya/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/lyudyna-oven-syla-i-garmoniya/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/lyudyna-oven-syla-i-garmoniya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/lyudyna-oven-syla-i-garmoniya/"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://DOMAIN/uk/articles/chandra-bog-luny/</loc>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/lyudyna-oven-syla-i-garmoniya/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/lyudyna-oven-syla-i-garmoniya/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/lyudyna-oven-syla-i-garmoniya/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/lyudyna-oven-syla-i-garmoniya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/lyudyna-oven-syla-i-garmoniya/"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://DOMAIN/articles/solnce-i-saturn-v-odnom-dome/</loc>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/articles/chandra-bog-luny/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/chandra-bog-luny/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/chandra-bog-luny/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/chandra-bog-luny/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/chandra-bog-luny/"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://DOMAIN/uk/articles/solnce-i-saturn-v-odnom-dome/</loc>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/chandra-bog-luny/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/chandra-bog-luny/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/chandra-bog-luny/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/chandra-bog-luny/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/chandra-bog-luny/"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://DOMAIN/articles/sade-sati-saturn-uchit-otpuskat/</loc>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/chandra-bog-luny/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/chandra-bog-luny/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/chandra-bog-luny/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/chandra-bog-luny/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/chandra-bog-luny/"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://DOMAIN/uk/articles/sade-sati-saturn-uchit-otpuskat/</loc>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/articles/solnce-i-saturn-v-odnom-dome/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/solnce-i-saturn-v-odnom-dome/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/solnce-i-saturn-v-odnom-dome/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/solnce-i-saturn-v-odnom-dome/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/solnce-i-saturn-v-odnom-dome/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/solnce-i-saturn-v-odnom-dome/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/solnce-i-saturn-v-odnom-dome/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/solnce-i-saturn-v-odnom-dome/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/solnce-i-saturn-v-odnom-dome/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/solnce-i-saturn-v-odnom-dome/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/solnce-i-saturn-v-odnom-dome/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/solnce-i-saturn-v-odnom-dome/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/solnce-i-saturn-v-odnom-dome/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/solnce-i-saturn-v-odnom-dome/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/solnce-i-saturn-v-odnom-dome/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/articles/sade-sati-saturn-uchit-otpuskat/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/sade-sati-saturn-uchit-otpuskat/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/sade-sati-saturn-uchit-otpuskat/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/sade-sati-saturn-uchit-otpuskat/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/sade-sati-saturn-uchit-otpuskat/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/sade-sati-saturn-uchit-otpuskat/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/sade-sati-saturn-uchit-otpuskat/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/sade-sati-saturn-uchit-otpuskat/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/sade-sati-saturn-uchit-otpuskat/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/sade-sati-saturn-uchit-otpuskat/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/sade-sati-saturn-uchit-otpuskat/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/sade-sati-saturn-uchit-otpuskat/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://svitlanaastrology-stack.github.io/shatabhara-site/uk/articles/sade-sati-saturn-uchit-otpuskat/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://svitlanaastrology-stack.github.io/shatabhara-site/en/articles/sade-sati-saturn-uchit-otpuskat/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://svitlanaastrology-stack.github.io/shatabhara-site/articles/sade-sati-saturn-uchit-otpuskat/"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
